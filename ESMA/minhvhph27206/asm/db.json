@@ -1,0 +1,70 @@
+{
+  "myProject": [
+    {
+      "id": 1,
+      "name": "Comfy store",
+      "desc": "Lorem ipsum",
+      "image": "../../../src/Image/comfy.png",
+      "source": "https://github.com/minhvhph27206",
+      "link": "https://github.com/minhvhph27206",
+      "time": "5 days",
+      "startDate": "05/05/2022",
+      "role": "fullstack",
+      "skills": "HTML,CSS,JS"
+    },
+    {
+      "id": 2,
+      "name": "Lamboc Clone",
+      "desc": "Lorem ipsum",
+      "image": "../../../src/Image/lambo.png",
+      "source": "https://github.com/minhvhph27206",
+      "link": "https://github.com/minhvhph27206",
+      "time": "10 days",
+      "startDate": "05/05/2022",
+      "role": "fullstack",
+      "skills": "HTML,CSS,JS"
+    },
+    {
+      "name": "cdsc",
+      "desc": "csdcd",
+      "link": "cdsc",
+      "source": "cdscdc",
+      "image": "../../../src/Image/lambo.png",
+      "startDate": "csdcds",
+      "skills": "cdscdsc",
+      "role": "fullstack",
+      "id": 10
+    },
+    {
+      "name": "sacdscd1",
+      "desc": "sdvcsd",
+      "link": "vdfvf",
+      "source": "vdv",
+      "image": "../../../src/Image/minh.jpg",
+      "startDate": "1111-11-11",
+      "skills": "vdfv",
+      "role": "Front-end",
+      "time": "vcvx",
+      "id": 11
+    },
+    {
+      "name": "wecds",
+      "desc": "cds",
+      "link": "csdc",
+      "source": "cdsc",
+      "image": "../../../src/Image/lambo.png",
+      "startDate": "2020-03-04",
+      "skills": "cds",
+      "role": "fullstack",
+      "time": "cds",
+      "id": 13
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$OMJ4gXJOlqVS5x8iWBBZIO6w2DqxGBXL45AMI7m2BKKrZ2XcDJI4K",
+      "id": 1
+    }
+  ]
+}
